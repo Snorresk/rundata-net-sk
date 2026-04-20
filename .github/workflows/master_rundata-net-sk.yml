@@ -74,5 +74,5 @@ jobs:
         with:
           app-name: 'rundata-net-sk'
           slot-name: 'Production'
-          package: './python-app'
+          package: '.'
           
